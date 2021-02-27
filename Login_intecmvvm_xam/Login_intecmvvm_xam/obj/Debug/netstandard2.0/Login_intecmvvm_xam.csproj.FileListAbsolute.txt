@@ -1,0 +1,17 @@
+C:\Users\JeanC\source\repos\Login_intecmvvm_xam\Login_intecmvvm_xam\Login_intecmvvm_xam\obj\Debug\netstandard2.0\Login_intecmvvm_xam.csprojAssemblyReference.cache
+C:\Users\JeanC\source\repos\Login_intecmvvm_xam\Login_intecmvvm_xam\Login_intecmvvm_xam\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\JeanC\source\repos\Login_intecmvvm_xam\Login_intecmvvm_xam\Login_intecmvvm_xam\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\JeanC\source\repos\Login_intecmvvm_xam\Login_intecmvvm_xam\Login_intecmvvm_xam\obj\Debug\netstandard2.0\Login_intecmvvm_xam.AssemblyInfoInputs.cache
+C:\Users\JeanC\source\repos\Login_intecmvvm_xam\Login_intecmvvm_xam\Login_intecmvvm_xam\obj\Debug\netstandard2.0\Login_intecmvvm_xam.AssemblyInfo.cs
+C:\Users\JeanC\source\repos\Login_intecmvvm_xam\Login_intecmvvm_xam\Login_intecmvvm_xam\obj\Debug\netstandard2.0\Login_intecmvvm_xam.csproj.CoreCompileInputs.cache
+C:\Users\JeanC\source\repos\Login_intecmvvm_xam\Login_intecmvvm_xam\Login_intecmvvm_xam\obj\Debug\netstandard2.0\Login_intecmvvm_xam.dll
+C:\Users\JeanC\source\repos\Login_intecmvvm_xam\Login_intecmvvm_xam\Login_intecmvvm_xam\obj\Debug\netstandard2.0\ref\Login_intecmvvm_xam.dll
+C:\Users\JeanC\source\repos\Login_intecmvvm_xam\Login_intecmvvm_xam\Login_intecmvvm_xam\obj\Debug\netstandard2.0\Login_intecmvvm_xam.pdb
+C:\Users\JeanC\source\repos\Login_intecmvvm_xam\Login_intecmvvm_xam\Login_intecmvvm_xam\bin\Debug\netstandard2.0\Login_intecmvvm_xam.deps.json
+C:\Users\JeanC\source\repos\Login_intecmvvm_xam\Login_intecmvvm_xam\Login_intecmvvm_xam\bin\Debug\netstandard2.0\Login_intecmvvm_xam.dll
+C:\Users\JeanC\source\repos\Login_intecmvvm_xam\Login_intecmvvm_xam\Login_intecmvvm_xam\bin\Debug\netstandard2.0\ref\Login_intecmvvm_xam.dll
+C:\Users\JeanC\source\repos\Login_intecmvvm_xam\Login_intecmvvm_xam\Login_intecmvvm_xam\bin\Debug\netstandard2.0\Login_intecmvvm_xam.pdb
+C:\Users\JeanC\source\repos\Login_intecmvvm_xam\Login_intecmvvm_xam\Login_intecmvvm_xam\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\JeanC\source\repos\Login_intecmvvm_xam\Login_intecmvvm_xam\Login_intecmvvm_xam\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\JeanC\source\repos\Login_intecmvvm_xam\Login_intecmvvm_xam\Login_intecmvvm_xam\obj\Debug\netstandard2.0\Views\RegisterPage.xaml.g.cs
+C:\Users\JeanC\source\repos\Login_intecmvvm_xam\Login_intecmvvm_xam\Login_intecmvvm_xam\obj\Debug\netstandard2.0\Views\HomeTab.xaml.g.cs
